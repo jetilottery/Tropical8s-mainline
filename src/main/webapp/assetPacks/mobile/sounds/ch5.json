@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch5.mp3",
+    "ch5.ogg",
+    "ch5.m4a"
+  ],
+  "sprite": {
+    "WinningNumberSelect2": [
+      0,
+      2250
+    ],
+    "YourNumberSelect3": [
+      3500,
+      1599.9999999999995
+    ]
+  }
+}

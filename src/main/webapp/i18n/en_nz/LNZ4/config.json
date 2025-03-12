@@ -1,0 +1,11 @@
+{
+    "toggleAutoPlay": false,
+    "showHowToPlayOnLoad": false,
+    "autoPlayWinningNumberInterval": 0.1,
+    "autoPlayPlayerNumberInterval": 0.1,
+    "autoPlayPlayerNumberDelay": 0.25,
+    "autoPlayBonusItemDelay": 0.25,
+    "showResultScreen": true,
+    "suppressNonWinResultPlaque": true,
+    "consoleEnabledDuringPlay": true
+}
